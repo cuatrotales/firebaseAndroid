@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285856416334",
+    "project_id": "paseo-sabado-890ce",
+    "storage_bucket": "paseo-sabado-890ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285856416334:android:33e4b5a56201bfed6ab91f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285856416334-d6lmoi6h3db0s3n0hjfr7rgouo7ud4rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83uN6rffP9DOQaT5nuKMRjJrm8-j2MIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285856416334-d6lmoi6h3db0s3n0hjfr7rgouo7ud4rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
